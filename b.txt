@@ -1,1 +1,2 @@
 hello from git local
+bug fix user auth
